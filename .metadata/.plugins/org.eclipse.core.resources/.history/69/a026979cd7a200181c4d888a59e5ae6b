@@ -1,0 +1,8 @@
+#ifndef libiex_H
+#define libiex_H
+
+#include "stdio.h"
+
+extern void print_hello ();
+
+#endif

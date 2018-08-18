@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;libiex/libiex/IEX.cpp&apos; to &apos;iex.cpp&apos;" description="Rename resource &apos;IEX.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="libiex/IEX.cpp" name="iex.cpp" stamp="1534590768243" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;libiex/exampleProgram/exampleProgram.c&apos; to &apos;exampleProgram.cpp&apos;" description="Rename resource &apos;exampleProgram.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="exampleProgram/exampleProgram.c" name="exampleProgram.cpp" stamp="1534593284795" updateReferences="true"/>
+</session>
